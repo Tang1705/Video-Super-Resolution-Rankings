@@ -12,5 +12,5 @@ https://github.com/AIVFI/Video-Frame-Interpolation-Rankings
 
 ## Compressed Video Super-Resolution
 
-[^1] Shuwei Shi, Jinjin Gu, Liangbin Xie, Xintao Wang, Yujiu Yang, and Chao Dong. 2022. Rethinking Alignment in Video Super-Resolution Transformers. In Advances in Neural Information Processing Systems.
+[^1]: Shuwei Shi, Jinjin Gu, Liangbin Xie, Xintao Wang, Yujiu Yang, and Chao Dong. 2022. Rethinking Alignment in Video Super-Resolution Transformers. In Advances in Neural Information Processing Systems.
 
