@@ -4,7 +4,7 @@
 
 | Method               | Official Repository                                                                       | Frames REDS/Vimeo |Params(M)| REDS4 PSNR                    | REDS4 SSIM                     | Vimeo-90K-T PSNR | Vimeo-90K-T SSIM | Vid4 PSNR                    | Vid4 SSIM                     |
 |----------------------|-------------------------------------------------------------------------------------------|---|---|-------------------------------|--------------------------------|------------------|------------------|------------------------------|-------------------------------|
-| PSRT-recurrent [^1] | [PyTorch](https://github.com/XPixelGroup/RethinkVSRAlignment) ![Github stars](https://img.shields.io/github/stars/dvlab-research/VFIformer) | 16/14      |13.4| <font color=Blue>32.72</font> | <font color=blue>0.9106</font> |<font color=red>38.27</font>|<font color=red>0.9536</font>| <font color=red>28.07</font> | <font color=red>0.8485</font> |
+| PSRT-recurrent [^1] | [RethinkVSRAlignment](https://github.com/XPixelGroup/RethinkVSRAlignment)| 16/14      |13.4| <font color=Blue>32.72</font> | <font color=blue>0.9106</font> |<font color=red>38.27</font>|<font color=red>0.9536</font>| <font color=red>28.07</font> | <font color=red>0.8485</font> |
 
 ## Video Frame Interpolation
 
