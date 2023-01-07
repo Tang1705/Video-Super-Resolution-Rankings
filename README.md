@@ -15,7 +15,7 @@
 | [BasicVSR](https://github.com/ckkelvinchan/BasicVSR-IconVSR) [^8]                             |       15/14       | 6.3|   31.42                       | 0.8909                        | 37.18                          | 0.9450                        | 27.24                          | 0.8251                        |
 |[VSR-T](https://github.com/caojiezhang/VSR-Transformer) [^9] |5/7|32.6|31.19|0.8815|37.71|0.9494|27.36|0.8258|
 
-## Video Frame Interpolation
+## Space-Time Video Super-Resolution
 
 https://github.com/AIVFI/Video-Frame-Interpolation-Rankings
 
