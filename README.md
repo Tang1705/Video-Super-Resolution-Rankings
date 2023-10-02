@@ -43,8 +43,6 @@
 
 https://github.com/AIVFI/Video-Frame-Interpolation-Rankings
 
-## Compressed Video Super-Resolution
-
 ## Awesome-Super-Resolution
 
 https://github.com/ChaofWang/Awesome-Super-Resolution
